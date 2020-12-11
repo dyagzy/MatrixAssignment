@@ -1,0 +1,7 @@
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToBeSubmitted\Matrix4by4\bin\Debug\Matrix4by4.exe.config
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToBeSubmitted\Matrix4by4\bin\Debug\Matrix4by4.exe
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToBeSubmitted\Matrix4by4\bin\Debug\Matrix4by4.pdb
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToBeSubmitted\Matrix4by4\obj\Debug\Matrix4by4.csprojAssemblyReference.cache
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToBeSubmitted\Matrix4by4\obj\Debug\Matrix4by4.csproj.CoreCompileInputs.cache
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToBeSubmitted\Matrix4by4\obj\Debug\Matrix4by4.exe
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToBeSubmitted\Matrix4by4\obj\Debug\Matrix4by4.pdb
